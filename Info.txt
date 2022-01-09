@@ -1,0 +1,5 @@
+A Simple Calculator which is able to do operations like:
+- Addition
+- Subtraction
+- Multiplication
+- Division
